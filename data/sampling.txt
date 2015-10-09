@@ -1,0 +1,16 @@
+original_name	SI	genus
+Acacia	1350	Acacia
+Allium	800	Allium
+Begonia	1500	Begonia
+Centaurea	300	Centaurea
+Crotalaria	702	Crotalaria
+Croton	1200	Croton
+Hypericum	500	Hypericum
+Indigofera	750	Indigofera
+Mimosa	500	Mimosa
+Oxalis	500	Oxalis
+Passiflora	520	Passiflora
+Ranunculus	600	Ranunculus
+Rhododendron	1000	Rhododendron
+Senecio	1000	Senecio
+Silene	700	Silene
