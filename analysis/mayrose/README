@@ -1,0 +1,11 @@
+Analysis jobs ran on CC cluster.
+
+100 randomly picked trees.
+
+R 3.1.1
+diversitree 0.9-7
+deSolve 1.12
+ape 3.3
+subplex 1.1-6
+Rcpp 0.12.1
+
