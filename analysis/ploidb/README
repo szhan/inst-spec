@@ -1,0 +1,12 @@
+Analysis jobs ran on jekyl.
+
+60 randomly picked trees.
+
+Software used:
+R 3.1.0
+diveristree 0.9-7
+deSolve 1.11
+ape 3.3
+subplex 1.1-4
+Rcpp 0.11.5
+
